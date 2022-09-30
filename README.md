@@ -6,6 +6,7 @@ By Peter O'Callaghan. A PWA using Node, Express, and webpack.
 
 ## Table of Contents 
 * [Technologies Used](#technologies-used)
+* [Screenshot](#screenshot)
 * [Website](#website)
 * [Walkthrough Video](#walkthrough-video)
 * [Room for Improvement](#room-for-improvement)
@@ -20,6 +21,9 @@ By Peter O'Callaghan. A PWA using Node, Express, and webpack.
 * > Express.js
 * > Webpack
 * > Weebpack-Cli
+
+## Screenshot
+> ![Alt text](./client/src/images/text-editor.png)
 ## Website
 [Text Editor](https://text-editor-pocall.herokuapp.com/)
 ## Walkthrough Video
